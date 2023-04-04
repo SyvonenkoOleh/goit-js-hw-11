@@ -167,10 +167,6 @@ body {
     font-weight: 700;
     color: black;
   }
-    
-  .end-collection-text.is-hidden {
-    display: none;
-  }
 
   .load-more {
     width: 160px;
@@ -192,8 +188,4 @@ body {
   .load-more:focus {
     color: black;
     background-color: rgb(40, 230, 55, 0.5);
-  }
-
-  .load-more.is-hidden {
-    display: none;
   }
